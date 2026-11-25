@@ -19,4 +19,4 @@ Este projeto foi feito apenas para estudo e aprendizado, sem fins lucrativos. A 
 ## 🎨 Créditos
 * **Jogo original:** Google Chrome (T-Rex Runner)
 * **Desenvolvido por:** Darlan Szibor
-* **Contexto acadêmico:** Trabalho desenvolvido por um aluno do Instituto Federal do Paraná (Darlan Szibor), do campus União da Vitória, sob orientação do professor Vinícius Bortolini, na disciplina de Programação Web, buscando desenvolver um projeto de Flutter em sala de aula.
+* **Contexto acadêmico:** Trabalho desenvolvido por um aluno do Instituto Federal do Paraná (Darlan Szibor), do campus União da Vitória, sob orientação do professor Vinícius Bortolini, na disciplina de Programação Mobile, buscando desenvolver um projeto de Flutter em sala de aula.
