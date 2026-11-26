@@ -22,5 +22,5 @@ Este projeto foi feito apenas para estudo e aprendizado, sem fins lucrativos. A 
 * **Flutter** e **Dart** (ferramentas para criar aplicativos e jogos)
 
 
-##
+## ☠️Sempre use esse comando antes de executar o projeto
 * Run **flutter pub get**
