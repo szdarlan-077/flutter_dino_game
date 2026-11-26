@@ -1,5 +1,10 @@
 # flutter_dino_game
 
+## 🎨 Créditos
+* **Jogo original:** Google Chrome (T-Rex Runner)
+* **Desenvolvido por:** Darlan Szibor
+* **Contexto acadêmico:** Trabalho desenvolvido por um aluno do Instituto Federal do Paraná (Darlan Szibor), do campus União da Vitória, sob orientação do professor Vinícius Bortolini(SIAPE 1279203), na disciplina de Programação Mobile, buscando desenvolver um projeto de Flutter em sala de aula.
+
 # 🤖🦖 Robo Dino Runner
 
 Uma recriação simples do jogo do dinossauro do Google Chrome, feita em Flutter, onde o personagem principal é um robô!
@@ -15,8 +20,3 @@ Este projeto foi feito apenas para estudo e aprendizado, sem fins lucrativos. A 
 
 ## 🛠️ O que foi usado para criar
 * **Flutter** e **Dart** (ferramentas para criar aplicativos e jogos)
-
-## 🎨 Créditos
-* **Jogo original:** Google Chrome (T-Rex Runner)
-* **Desenvolvido por:** Darlan Szibor
-* **Contexto acadêmico:** Trabalho desenvolvido por um aluno do Instituto Federal do Paraná (Darlan Szibor), do campus União da Vitória, sob orientação do professor Vinícius Bortolini, na disciplina de Programação Mobile, buscando desenvolver um projeto de Flutter em sala de aula.
