@@ -20,3 +20,7 @@ Este projeto foi feito apenas para estudo e aprendizado, sem fins lucrativos. A 
 
 ## 🛠️ O que foi usado para criar
 * **Flutter** e **Dart** (ferramentas para criar aplicativos e jogos)
+
+
+##
+* Run **flutter pub get**
