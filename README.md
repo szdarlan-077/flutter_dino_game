@@ -9,6 +9,9 @@
 
 Uma recriação simples do jogo do dinossauro do Google Chrome, feita em Flutter, onde o personagem principal é um robô!
 
+# 🖼️ Imagens do projeto
+* As imagens do projeto rodando estão em Robo dino runner.pdf
+
 ## ⚠️ Aviso e Créditos
 Este projeto foi feito apenas para estudo e aprendizado, sem fins lucrativos. A ideia original do jogo pertence ao Google Chrome (Chrome Dino). Este projeto é apenas uma homenagem feita por um estudante e não tem ligação oficial com o Google.
 
